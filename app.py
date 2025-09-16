@@ -16,12 +16,6 @@ server = app.server
 
 
 
-
-
-
-
-
-
 # App Layout
 
 app.layout = html.Div([
@@ -48,6 +42,14 @@ def render_content(tab):
         return html.Div([
             html.H3('Tab content 2')
         ])
+    elif tab == "tab-3":
+        return html.Div([
+            html.H3('Tab content 2')
+        ])
+    elif tab == "tab-4":
+        return html.Div([
+            html.H3('Tab content 2')
+        ])
 
-
-
+if __name__ == '__main__':
+    app.run(debug=True)
