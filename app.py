@@ -17,28 +17,29 @@ server = app.server
 
 #Import Data
 
+ger_entranceQual = pd.read_csv("assets/EntranceQualification.csv",sep=";")
+ger_entranceRate = pd.read_csv("assets/EntranceRate.csv",sep=";")
+ger_gradRate = pd.read_csv("assets/GraduationRate.csv",sep=";")
 
+#Setup Figures
 
+ger_fig_entQual = px.line(ger_entranceQual,x="Year",y=["Entrance qualification for univ. of appl. sciences","University entrance qualification","Total"],title="Entrance qualification rate").update_layout(xaxis= dict(dtick =1))
+ger_fig_entRate = px.line(ger_entranceRate,x="Year",y=["male","female","total"],title="Entrance Rate to higher education").update_layout(xaxis= dict(dtick =1))
+ger_fig_gradRate = px.line(ger_gradRate,x="Year",y=["male","female","total"],title="graduation rate from first degree courses (bachelors)").update_layout(xaxis= dict(dtick =1))
 #Dropdown Topic for europe
 selected_country = ""
 
 dropdown = dcc.Dropdown([
     "Graduation Rate",
 
-
 ],
 "Graduation Rate",id = "topic_dropdown")
 output_dropdown = html.Div(id="dd-output-copntainer")
 
-@callback(
-        Output("dd-output-copntainer","children"),
-        Input("topic_dropdown","value")
-)
-def update_output(value):
-    return f"You have selected {value}"
+
+seperator30px = html.Div(style={"height":"30px"})
 
 #Interactive Map
-
 
 
 def get_info(feature=None):
@@ -91,9 +92,7 @@ Map = dl.Map(children=[dl.TileLayer(),geojson,colorbar,info],style={"display":"i
              
 
 
-@app.callback(Output("info", "children"), Input("geojson", "hoverData"))
-def info_hover(feature):
-    return get_info(feature)
+
 # App Layout
 
 app.layout = html.Div([
@@ -110,8 +109,12 @@ app.layout = html.Div([
 
             ]),
             html.Div(id="tabs-content"),
+            html.P("All statistics that seperate by gender only include male and female since the datasets we used did not provide data about people identifying as diverse.")
     
 ],style={"margin":"0","border":"0","width":"100vw","height":"100vh"})
+
+
+# Callbacks
 
 @callback(Output('tabs-content', 'children'),
               Input('tabs', 'value'))
@@ -132,15 +135,42 @@ def render_content(tab):
                     html.Label("RightSideContent")
                 ],style={"display":"inline-block"})],style={"display":"flex"})])
 
-            
+        
         
     
     elif tab == 'tab-2':
         return html.Div([
-            html.H3('')
+                html.H3('Statistics on higher education in Germany'),
+                html.Div([
+                html.Div([
+                    html.Label("LeftSideText")
+                ],style={"display":"inline-block","width":"30vw"}),
+                html.Div([         
+                dcc.Graph(id="entQualGraph",figure=ger_fig_entQual),
+                seperator30px,
+                dcc.Graph(id="entRateGraph",figure=ger_fig_entRate),
+                seperator30px,
+                dcc.Graph(id="GradRateGraph",figure=ger_fig_gradRate),],style={"display":"inline-block","width":"40vw","height":"60vh","marginLeft":"auto","marginRight":"0"}),           
+                ],style={"display":"flex"}),
+                
         ])
+
+
+@callback(
+        Output("dd-output-copntainer","children"),
+        Input("topic_dropdown","value")
+)
+def update_output(value):
+    return f"You have selected {value}"
+
+
+@callback(Output("info", "children"), Input("geojson", "hoverData"))
+def info_hover(feature):
+    return get_info(feature)
+
+
 
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
