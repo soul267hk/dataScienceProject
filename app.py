@@ -147,11 +147,11 @@ def block(markdown,plot): ## Produce a block for findings
         return html.Div([
                 html.Div([
                     markdown
-                ],className="roundedCorners",style={"display":"inline-block","width":"40vw","margin-left":"30px","backgroundColor":"#ffffff"}),
+                ],className="roundedCorners",style={"display":"block","width":"40vw","margin-left":"30px","backgroundColor":"#ffffff"}),
                 html.Div(style={"width":"40px"}),
                 html.Div([html.Div([plot],style={"margin":"20px"})
                     
-                ],className="roundedCorners",style={"display":"inline-block","width":"50vw","margin-right":"30px","backgroundColor":"#ffffff"}),
+                ],className="roundedCorners",style={"display":"block","width":"50vw","margin-right":"30px","backgroundColor":"#ffffff"}),
             ],style={"display":"flex"})
 
 dropdown = dcc.Dropdown([
@@ -196,6 +196,7 @@ header = [
 tab1 = html.Div([
                 html.Div([
                 html.H3('Interactive map of europe',style={"margin-left":"30px"}),
+                html.P("Colormapped to amount of enrolled bachelor students",style={"margin-left":"30px"}),
 
             ]),
             dropdown,
@@ -213,9 +214,45 @@ tab1 = html.Div([
 tab2 = html.Div([
                 html.H3('Use the slider below to navigate between our findings.',style={"marginLeft":"40px"}),
                 topicSlider,
-                html.Div(id="findings"),
+                html.Div(id="findings",style={"display":"grid"}),
 
         ])
+tab3 = html.Div([html.Div(dcc.Markdown("""
+* This research project was part of the data science project SS25 at the CAU-Kiel : 
+    * Groupname : Ink&Pla (Inkompetent&Planlos)
+
+* The databases we collected data from: 
+    * Destatis only data about Germany 
+    * Eurostat 
+    * The European higher education sector observatory (EHESO)
+* Most data between 2011-2023
+* The field of education “Generic  programmes and qualifications” is not a field that is being used for categorization in Germany, therefore Germany does not list any students in this field.
+* There are gaps in the data available (for example UK is missing data past 2019)
+* All the data from the API’s we used did only separate by male and female for gender, therefore we do not have statistics about people identifying as diverse.
+
+* The geojson for the interactive map is sourced from : [https://geojson-maps.kyd.au/] and modified by hand to suit or needs.
+
+* The countries whose data are included in our project:
+
+Albania, Austria, Belgium,
+Bosnia and Herzegovina(Bosnia and H.), Bulgaria, Croatia, 
+Cyprus, Czechia, Denmark, Estonia, Finland, 
+France, Germany, Georgia, Greece, Hungary,
+Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein,
+Luxembourg, Malta, Montenegro, Netherlands, 
+North Macedonia (N. Macedonia), Norway, Poland,
+Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, 
+Sweden, Switzerland, United Kingdom, Türkiye
+
+
+
+
+
+
+
+
+
+""",style={"fontSize":36}))])
 
 # App Layout
 
@@ -226,6 +263,7 @@ app.layout = html.Div([
             dcc.Tabs(id="tabs",value="tab-1",children=[
                 dcc.Tab(label = "Discover Europe",value="tab-1"),
                 dcc.Tab(label = "Findings",value="tab-2"),
+                dcc.Tab(label = "about",value="tab-3"),
 
             ]),
             html.Div(id="tabs-content"),
@@ -256,8 +294,8 @@ def update_findings(value):
             markdown =  dcc.Markdown("""
                                 * Rate of students graduating with a master’s degree to the students graduating with a bachelor’s degree between 2011 and 2022.
                                 * Students in the field of Services, pursue a master’s degree significantly less often than students of other fields.
-                                * Education is a special case since not every country offers a bachelor’s degree in Education, resulting in a high rate of master’s degrees.
-                """)
+                                * Education is a special case since not every country has a bachelor’s degree in Education as prerequisite for a master's degree , resulting in a high rate of master’s degrees.
+                """,style={"fontSize":36})
             fig = px.bar(df,x="Field of Education",y="Value",color="Degree")
 
 
@@ -275,16 +313,20 @@ def update_findings(value):
             fig2  = px.bar(join,x="Field of Education",y=(join["Rate"]*100),labels={"y":"Rate of master to bachelor graduates [%]"})
 
             markdown2 = dcc.Markdown("""
-            * First
-                """)
-            plot2 = dcc.Graph(figure=fig2)
+                * The most master degrees overall are achieved in "Business, Administration and Law" and "Social sciences, Journalism and Information.
+                """,style={"fontSize":36})
+            plot = dcc.Graph(figure=fig2)
 
 
-            plot = dcc.Graph(figure=fig)
+            plot2 = dcc.Graph(figure=fig)
             middle = html.Div([block(markdown=markdown,plot=plot),seperator30px,block(markdown=markdown2,plot=plot2),
                                ])
         case 1:
-            markdown = dcc.Markdown()
+            markdown = dcc.Markdown("""
+* Data based on enrollment in bachelor and master programs between 2013 and 2023.
+* Females make up 53.2% of the student population in Europe.
+* Germany, Switzerland, Turkey and Liechtenstein are the only countries with a majoirity of male students.                        
+""",style={"fontSize":36})
 
             dfb = europe_enrolled
             dfm = europe_enrolledMaster
@@ -340,11 +382,20 @@ def update_findings(value):
                     direction="clockwise"
                 ), 1, 2)
 
-            markdown = dcc.Markdown()
+            markdown = dcc.Markdown("""
+* Distribution of bachelor and master students over fields of education between 2011 and 2022 for Germany and the European countries excluding Germany, respectively.
+* Germany has 6.07% less students in the field of Health and Welfare.
+* Germany has 8.7% more of its students enrolled in Engineering, Manufacturing and Construction then other European countries.
+""",style={"fontSize":36})
             plot = dcc.Graph(figure=fig_RQ5_PIES)
             middle = html.Div([block(markdown,plot)])
         case 3:
-            markdown = dcc.Markdown()
+            markdown = dcc.Markdown("""
+* Most students are in their early twenties
+* Starting do decrease at the age of 23 in Germany
+* Decrase for the rest of europe already starts at 21
+* This results in an average age for german students that is higher then for the rest of europe.                            
+""",style={"fontSize":36})
 
             df = enrolled_age
             df = df.groupby(["geo","age","age_numeric"]).sum().reset_index()
@@ -422,12 +473,38 @@ def update_findings(value):
 
 
 
-            markdown = dcc.Markdown()
+            markdown = dcc.Markdown("""
+* Data based on enrollment in bachelor and master programs between 2013 and 2023.
+* Similar values between Germany and the average.
+* High female presence in the fields of Education and Health and Welfare.
+* In "Engineering, manufacturing and construction" and "Information and communication technologies", the percentage of males is significantly higher.
+                                
+""",style={"fontSize":36})
             plot = dcc.Graph(figure = fig)
             middle = html.Div([block(markdown,plot)])
         case 5:
-            markdown = dcc.Markdown()
-            plot = dcc.Graph()
+            markdown1 = dcc.Markdown("""
+* In 2012 about 59% of all pupils managed to obtain a entrance qualification for higher education.
+* The amount of people only able to enroll in a university of applied science has been decreasing since 2012.
+* In 2020 where Covid-19 and lockdowns occured , a small bump in the line is noticable , hinting it might have had an impact on pupils graduating that year.
+""",style={"fontSize":36})
+            markdown2 = dcc.Markdown("""
+* Percentage of students enrolling grew rapidly between 2006 and 2014.
+* Since 2012, women are more likely to enroll into a bachelors degree than men.
+* There has been no obvious change in the years of the pandemic.
+* Lower numbers in 2021 reflect the lower numbers in the qualification rate adequately.
+""",style={"fontSize":36})
+            markdown3 = dcc.Markdown("""
+* Percentage of students graduating with a bachelors grew rapidly between 2006 and 2010 and has been on a slight upwards-trend since.
+* Women are about 10% more likely to graduate then men currently.
+* From 200 to 2009, men's and women's graduation rates were within 3% of each other.
+
+
+""",style={"fontSize":36})
+            plot1 = dcc.Graph(figure=ger_fig_entQual)
+            plot2 = dcc.Graph(figure=ger_fig_entRate)
+            plot3 = dcc.Graph(figure=ger_fig_gradRate)
+            middle = html.Div([block(markdown1,plot1),seperator30px,block(markdown2,plot2),seperator30px,block(markdown3,plot3)],style={"display":"grid"})
         case _:
             markdown = dcc.Markdown()
             plot = dcc.Graph()
@@ -543,6 +620,8 @@ def render_content(tab):
         return tab1
     elif tab == 'tab-2':
         return tab2
+    elif tab == 'tab-3':
+        return tab3
 
 
 
