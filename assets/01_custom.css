@@ -10,7 +10,23 @@
     margin: 0 0 5px;
     color: #777;
 }
+.mapBackdrop{
+    background-color: #9788B4;
+    border-radius: 30px;
+}
 body{top:0;
-    margin:0;}
+    margin:0;
+background-color: #DDE8F4;}
 head{top:0;
     background-color: #9b0a7d;}
+.roundedCorners{
+    border-radius: 25px;
+    border-width:10px;
+    border: solid;
+    border-color: #9788B4;
+
+    
+}
+.sliderResearchQuestions{
+    width: 50%;
+}

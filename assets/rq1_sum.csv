@@ -1,0 +1,889 @@
+,Country,Field of Education,Degree,Value
+0,AL,"Agriculture, forestry, fisheries and veterinary",Bachelor,1647.0
+1,AL,"Agriculture, forestry, fisheries and veterinary",Master,1239.0
+2,AL,Arts and humanities,Bachelor,8318.0
+3,AL,Arts and humanities,Master,2374.0
+4,AL,"Business, administration and law",Bachelor,16215.0
+5,AL,"Business, administration and law",Master,12108.0
+6,AL,Education,Bachelor,2469.0
+7,AL,Education,Master,7512.0
+8,AL,"Engineering, manufacturing and construction",Bachelor,5258.0
+9,AL,"Engineering, manufacturing and construction",Master,4423.0
+10,AL,Generic programmes and qualifications,Bachelor,86.0
+11,AL,Generic programmes and qualifications,Master,174.0
+12,AL,Health and welfare,Bachelor,7665.0
+13,AL,Health and welfare,Master,7412.0
+14,AL,Information and Communication Technologies,Bachelor,4063.0
+15,AL,Information and Communication Technologies,Master,1558.0
+16,AL,"Natural sciences, mathematics and statistics",Bachelor,3185.0
+17,AL,"Natural sciences, mathematics and statistics",Master,877.0
+18,AL,Services,Bachelor,2082.0
+19,AL,Services,Master,434.0
+20,AL,"Social sciences, journalism and information",Bachelor,5401.0
+21,AL,"Social sciences, journalism and information",Master,4941.0
+22,AL,Unclassified,Bachelor,0.0
+23,AL,Unclassified,Master,0.0
+24,AT,"Agriculture, forestry, fisheries and veterinary",Bachelor,2556.61
+25,AT,"Agriculture, forestry, fisheries and veterinary",Master,1691.01
+26,AT,Arts and humanities,Bachelor,37764.27
+27,AT,Arts and humanities,Master,17356.05
+28,AT,"Business, administration and law",Bachelor,66075.73
+29,AT,"Business, administration and law",Master,73120.08
+30,AT,Education,Bachelor,58409.78
+31,AT,Education,Master,16054.83
+32,AT,"Engineering, manufacturing and construction",Bachelor,49416.71
+33,AT,"Engineering, manufacturing and construction",Master,40832.47
+34,AT,Generic programmes and qualifications,Bachelor,0.0
+35,AT,Generic programmes and qualifications,Master,0.0
+36,AT,Health and welfare,Bachelor,35646.37
+37,AT,Health and welfare,Master,15035.85
+38,AT,Information and Communication Technologies,Bachelor,18306.17
+39,AT,Information and Communication Technologies,Master,13045.51
+40,AT,"Natural sciences, mathematics and statistics",Bachelor,30809.260000000002
+41,AT,"Natural sciences, mathematics and statistics",Master,20485.989999999998
+42,AT,Services,Bachelor,7142.14
+43,AT,Services,Master,3293.05
+44,AT,"Social sciences, journalism and information",Bachelor,52737.45
+45,AT,"Social sciences, journalism and information",Master,26824.98
+46,AT,Unclassified,Bachelor,2.0
+47,AT,Unclassified,Master,33.0
+48,BE,"Agriculture, forestry, fisheries and veterinary",Bachelor,14656.0
+49,BE,"Agriculture, forestry, fisheries and veterinary",Master,4924.0
+50,BE,Arts and humanities,Bachelor,53231.0
+51,BE,Arts and humanities,Master,37753.0
+52,BE,"Business, administration and law",Bachelor,124420.0
+53,BE,"Business, administration and law",Master,69109.0
+54,BE,Education,Bachelor,79751.0
+55,BE,Education,Master,10942.0
+56,BE,"Engineering, manufacturing and construction",Bachelor,55676.0
+57,BE,"Engineering, manufacturing and construction",Master,42460.0
+58,BE,Generic programmes and qualifications,Bachelor,0.0
+59,BE,Generic programmes and qualifications,Master,0.0
+60,BE,Health and welfare,Bachelor,149155.0
+61,BE,Health and welfare,Master,54932.0
+62,BE,Information and Communication Technologies,Bachelor,18714.0
+63,BE,Information and Communication Technologies,Master,3068.0
+64,BE,"Natural sciences, mathematics and statistics",Bachelor,14243.0
+65,BE,"Natural sciences, mathematics and statistics",Master,15787.0
+66,BE,Services,Bachelor,19608.0
+67,BE,Services,Master,2669.0
+68,BE,"Social sciences, journalism and information",Bachelor,42820.0
+69,BE,"Social sciences, journalism and information",Master,41073.0
+70,BE,Unclassified,Bachelor,4561.0
+71,BE,Unclassified,Master,4180.0
+72,BG,"Agriculture, forestry, fisheries and veterinary",Bachelor,5595.0
+73,BG,"Agriculture, forestry, fisheries and veterinary",Master,3224.0
+74,BG,Arts and humanities,Bachelor,27762.0
+75,BG,Arts and humanities,Master,11174.0
+76,BG,"Business, administration and law",Bachelor,92796.0
+77,BG,"Business, administration and law",Master,81166.0
+78,BG,Education,Bachelor,30167.0
+79,BG,Education,Master,28436.0
+80,BG,"Engineering, manufacturing and construction",Bachelor,43937.0
+81,BG,"Engineering, manufacturing and construction",Master,21952.0
+82,BG,Generic programmes and qualifications,Bachelor,0.0
+83,BG,Generic programmes and qualifications,Master,0.0
+84,BG,Health and welfare,Bachelor,22924.0
+85,BG,Health and welfare,Master,7305.0
+86,BG,Information and Communication Technologies,Bachelor,14659.0
+87,BG,Information and Communication Technologies,Master,7222.0
+88,BG,"Natural sciences, mathematics and statistics",Bachelor,9342.0
+89,BG,"Natural sciences, mathematics and statistics",Master,5855.0
+90,BG,Services,Bachelor,27035.0
+91,BG,Services,Master,16928.0
+92,BG,"Social sciences, journalism and information",Bachelor,55130.0
+93,BG,"Social sciences, journalism and information",Master,28114.0
+94,BG,Unclassified,Bachelor,0.0
+95,BG,Unclassified,Master,0.0
+96,CH,"Agriculture, forestry, fisheries and veterinary",Bachelor,3235.0
+97,CH,"Agriculture, forestry, fisheries and veterinary",Master,1674.0
+98,CH,Arts and humanities,Bachelor,40747.0
+99,CH,Arts and humanities,Master,31250.0
+100,CH,"Business, administration and law",Bachelor,99293.0
+101,CH,"Business, administration and law",Master,63467.0
+102,CH,Education,Bachelor,47632.0
+103,CH,Education,Master,41931.0
+104,CH,"Engineering, manufacturing and construction",Bachelor,56859.0
+105,CH,"Engineering, manufacturing and construction",Master,29272.0
+106,CH,Generic programmes and qualifications,Bachelor,0.0
+107,CH,Generic programmes and qualifications,Master,0.0
+108,CH,Health and welfare,Bachelor,63417.0
+109,CH,Health and welfare,Master,22364.0
+110,CH,Information and Communication Technologies,Bachelor,10344.0
+111,CH,Information and Communication Technologies,Master,4647.0
+112,CH,"Natural sciences, mathematics and statistics",Bachelor,28516.0
+113,CH,"Natural sciences, mathematics and statistics",Master,27119.0
+114,CH,Services,Bachelor,9606.0
+115,CH,Services,Master,430.0
+116,CH,"Social sciences, journalism and information",Bachelor,36759.0
+117,CH,"Social sciences, journalism and information",Master,29971.0
+118,CH,Unclassified,Bachelor,1794.0
+119,CH,Unclassified,Master,4686.0
+120,CY,"Agriculture, forestry, fisheries and veterinary",Bachelor,334.0
+121,CY,"Agriculture, forestry, fisheries and veterinary",Master,42.0
+122,CY,Arts and humanities,Bachelor,4382.0
+123,CY,Arts and humanities,Master,3257.0
+124,CY,"Business, administration and law",Bachelor,13780.0
+125,CY,"Business, administration and law",Master,20248.0
+126,CY,Education,Bachelor,2825.0
+127,CY,Education,Master,22231.0
+128,CY,"Engineering, manufacturing and construction",Bachelor,5256.0
+129,CY,"Engineering, manufacturing and construction",Master,1579.0
+130,CY,Generic programmes and qualifications,Bachelor,0.0
+131,CY,Generic programmes and qualifications,Master,0.0
+132,CY,Health and welfare,Bachelor,3746.0
+133,CY,Health and welfare,Master,1962.0
+134,CY,Information and Communication Technologies,Bachelor,1668.0
+135,CY,Information and Communication Technologies,Master,1195.0
+136,CY,"Natural sciences, mathematics and statistics",Bachelor,1949.0
+137,CY,"Natural sciences, mathematics and statistics",Master,983.0
+138,CY,Services,Bachelor,1459.0
+139,CY,Services,Master,474.0
+140,CY,"Social sciences, journalism and information",Bachelor,4142.0
+141,CY,"Social sciences, journalism and information",Master,4676.0
+142,CY,Unclassified,Bachelor,0.0
+143,CY,Unclassified,Master,0.0
+144,CZ,"Agriculture, forestry, fisheries and veterinary",Bachelor,15297.0
+145,CZ,"Agriculture, forestry, fisheries and veterinary",Master,10939.0
+146,CZ,Arts and humanities,Bachelor,41488.0
+147,CZ,Arts and humanities,Master,23114.0
+148,CZ,"Business, administration and law",Bachelor,73408.0
+149,CZ,"Business, administration and law",Master,48714.0
+150,CZ,Education,Bachelor,51406.0
+151,CZ,Education,Master,35993.0
+152,CZ,"Engineering, manufacturing and construction",Bachelor,61709.0
+153,CZ,"Engineering, manufacturing and construction",Master,59923.0
+154,CZ,Generic programmes and qualifications,Bachelor,0.0
+155,CZ,Generic programmes and qualifications,Master,0.0
+156,CZ,Health and welfare,Bachelor,37010.0
+157,CZ,Health and welfare,Master,11920.0
+158,CZ,Information and Communication Technologies,Bachelor,19384.0
+159,CZ,Information and Communication Technologies,Master,13645.0
+160,CZ,"Natural sciences, mathematics and statistics",Bachelor,30475.0
+161,CZ,"Natural sciences, mathematics and statistics",Master,21673.0
+162,CZ,Services,Bachelor,32655.0
+163,CZ,Services,Master,20737.0
+164,CZ,"Social sciences, journalism and information",Bachelor,77758.0
+165,CZ,"Social sciences, journalism and information",Master,61347.0
+166,CZ,Unclassified,Bachelor,0.0
+167,CZ,Unclassified,Master,0.0
+168,DE,"Agriculture, forestry, fisheries and veterinary",Bachelor,39024.0
+169,DE,"Agriculture, forestry, fisheries and veterinary",Master,24340.0
+170,DE,Arts and humanities,Bachelor,275880.0
+171,DE,Arts and humanities,Master,115243.0
+172,DE,"Business, administration and law",Bachelor,833661.0
+173,DE,"Business, administration and law",Master,340716.0
+174,DE,Education,Bachelor,161752.0
+175,DE,Education,Master,92225.0
+176,DE,"Engineering, manufacturing and construction",Bachelor,610528.0
+177,DE,"Engineering, manufacturing and construction",Master,339218.0
+178,DE,Generic programmes and qualifications,Bachelor,0.0
+179,DE,Generic programmes and qualifications,Master,0.0
+180,DE,Health and welfare,Bachelor,204618.0
+181,DE,Health and welfare,Master,36905.0
+182,DE,Information and Communication Technologies,Bachelor,193014.0
+183,DE,Information and Communication Technologies,Master,93283.0
+184,DE,"Natural sciences, mathematics and statistics",Bachelor,215426.0
+185,DE,"Natural sciences, mathematics and statistics",Master,146551.0
+186,DE,Services,Bachelor,130479.0
+187,DE,Services,Master,25845.0
+188,DE,"Social sciences, journalism and information",Bachelor,242577.0
+189,DE,"Social sciences, journalism and information",Master,134776.0
+190,DE,Unclassified,Bachelor,743.0
+191,DE,Unclassified,Master,407.0
+192,DK,"Agriculture, forestry, fisheries and veterinary",Bachelor,4555.0
+193,DK,"Agriculture, forestry, fisheries and veterinary",Master,2650.0
+194,DK,Arts and humanities,Bachelor,41857.0
+195,DK,Arts and humanities,Master,22676.0
+196,DK,"Business, administration and law",Bachelor,64951.0
+197,DK,"Business, administration and law",Master,50009.0
+198,DK,Education,Bachelor,20536.0
+199,DK,Education,Master,8157.0
+200,DK,"Engineering, manufacturing and construction",Bachelor,39445.0
+201,DK,"Engineering, manufacturing and construction",Master,18756.0
+202,DK,Generic programmes and qualifications,Bachelor,0.0
+203,DK,Generic programmes and qualifications,Master,0.0
+204,DK,Health and welfare,Bachelor,98394.0
+205,DK,Health and welfare,Master,18272.0
+206,DK,Information and Communication Technologies,Bachelor,12949.0
+207,DK,Information and Communication Technologies,Master,14197.0
+208,DK,"Natural sciences, mathematics and statistics",Bachelor,16948.0
+209,DK,"Natural sciences, mathematics and statistics",Master,17133.0
+210,DK,Services,Bachelor,2645.0
+211,DK,Services,Master,802.0
+212,DK,"Social sciences, journalism and information",Bachelor,31825.0
+213,DK,"Social sciences, journalism and information",Master,34844.0
+214,DK,Unclassified,Bachelor,1771.0
+215,DK,Unclassified,Master,6203.0
+216,EE,"Agriculture, forestry, fisheries and veterinary",Bachelor,931.0
+217,EE,"Agriculture, forestry, fisheries and veterinary",Master,582.0
+218,EE,Arts and humanities,Bachelor,10433.0
+219,EE,Arts and humanities,Master,4208.0
+220,EE,"Business, administration and law",Bachelor,18003.0
+221,EE,"Business, administration and law",Master,9665.0
+222,EE,Education,Bachelor,4360.0
+223,EE,Education,Master,4137.0
+224,EE,"Engineering, manufacturing and construction",Bachelor,8768.0
+225,EE,"Engineering, manufacturing and construction",Master,4809.0
+226,EE,Generic programmes and qualifications,Bachelor,0.0
+227,EE,Generic programmes and qualifications,Master,0.0
+228,EE,Health and welfare,Bachelor,10584.0
+229,EE,Health and welfare,Master,1713.0
+230,EE,Information and Communication Technologies,Bachelor,4877.0
+231,EE,Information and Communication Technologies,Master,2936.0
+232,EE,"Natural sciences, mathematics and statistics",Bachelor,4299.0
+233,EE,"Natural sciences, mathematics and statistics",Master,2710.0
+234,EE,Services,Bachelor,6016.0
+235,EE,Services,Master,1011.0
+236,EE,"Social sciences, journalism and information",Bachelor,5605.0
+237,EE,"Social sciences, journalism and information",Master,3229.0
+238,EE,Unclassified,Bachelor,0.0
+239,EE,Unclassified,Master,0.0
+240,ES,"Agriculture, forestry, fisheries and veterinary",Bachelor,20128.0
+241,ES,"Agriculture, forestry, fisheries and veterinary",Master,9295.0
+242,ES,Arts and humanities,Bachelor,202846.0
+243,ES,Arts and humanities,Master,85155.0
+244,ES,"Business, administration and law",Bachelor,433607.0
+245,ES,"Business, administration and law",Master,254673.0
+246,ES,Education,Bachelor,394591.0
+247,ES,Education,Master,345301.0
+248,ES,"Engineering, manufacturing and construction",Bachelor,274849.0
+249,ES,"Engineering, manufacturing and construction",Master,117439.0
+250,ES,Generic programmes and qualifications,Bachelor,0.0
+251,ES,Generic programmes and qualifications,Master,0.0
+252,ES,Health and welfare,Bachelor,276552.0
+253,ES,Health and welfare,Master,130393.0
+254,ES,Information and Communication Technologies,Bachelor,66341.0
+255,ES,Information and Communication Technologies,Master,25472.0
+256,ES,"Natural sciences, mathematics and statistics",Bachelor,125319.0
+257,ES,"Natural sciences, mathematics and statistics",Master,70591.0
+258,ES,Services,Bachelor,89769.0
+259,ES,Services,Master,77093.0
+260,ES,"Social sciences, journalism and information",Bachelor,217855.0
+261,ES,"Social sciences, journalism and information",Master,124997.0
+262,ES,Unclassified,Bachelor,0.0
+263,ES,Unclassified,Master,0.0
+264,FI,"Agriculture, forestry, fisheries and veterinary",Bachelor,9489.0
+265,FI,"Agriculture, forestry, fisheries and veterinary",Master,4231.0
+266,FI,Arts and humanities,Bachelor,46544.0
+267,FI,Arts and humanities,Master,32699.0
+268,FI,"Business, administration and law",Bachelor,68244.0
+269,FI,"Business, administration and law",Master,32690.0
+270,FI,Education,Bachelor,25847.0
+271,FI,Education,Master,20254.0
+272,FI,"Engineering, manufacturing and construction",Bachelor,81254.0
+273,FI,"Engineering, manufacturing and construction",Master,34344.0
+274,FI,Generic programmes and qualifications,Bachelor,0.0
+275,FI,Generic programmes and qualifications,Master,0.0
+276,FI,Health and welfare,Bachelor,105452.0
+277,FI,Health and welfare,Master,21968.0
+278,FI,Information and Communication Technologies,Bachelor,24180.0
+279,FI,Information and Communication Technologies,Master,12276.0
+280,FI,"Natural sciences, mathematics and statistics",Bachelor,18267.0
+281,FI,"Natural sciences, mathematics and statistics",Master,15603.0
+282,FI,Services,Bachelor,26703.0
+283,FI,Services,Master,6456.0
+284,FI,"Social sciences, journalism and information",Bachelor,43185.0
+285,FI,"Social sciences, journalism and information",Master,32284.0
+286,FI,Unclassified,Bachelor,0.0
+287,FI,Unclassified,Master,0.0
+288,FR,"Agriculture, forestry, fisheries and veterinary",Bachelor,8930.0
+289,FR,"Agriculture, forestry, fisheries and veterinary",Master,4191.0
+290,FR,Arts and humanities,Bachelor,301349.0
+291,FR,Arts and humanities,Master,182199.0
+292,FR,"Business, administration and law",Bachelor,514586.0
+293,FR,"Business, administration and law",Master,540742.0
+294,FR,Education,Bachelor,42890.0
+295,FR,Education,Master,226426.0
+296,FR,"Engineering, manufacturing and construction",Bachelor,152520.0
+297,FR,"Engineering, manufacturing and construction",Master,194588.0
+298,FR,Generic programmes and qualifications,Bachelor,0.0
+299,FR,Generic programmes and qualifications,Master,0.0
+300,FR,Health and welfare,Bachelor,103579.0
+301,FR,Health and welfare,Master,348099.0
+302,FR,Information and Communication Technologies,Bachelor,58400.0
+303,FR,Information and Communication Technologies,Master,75074.0
+304,FR,"Natural sciences, mathematics and statistics",Bachelor,189882.0
+305,FR,"Natural sciences, mathematics and statistics",Master,195564.0
+306,FR,Services,Bachelor,61739.0
+307,FR,Services,Master,28979.0
+308,FR,"Social sciences, journalism and information",Bachelor,223602.0
+309,FR,"Social sciences, journalism and information",Master,224613.0
+310,FR,Unclassified,Bachelor,12445.0
+311,FR,Unclassified,Master,10713.0
+312,GR,"Agriculture, forestry, fisheries and veterinary",Bachelor,20260.0
+313,GR,"Agriculture, forestry, fisheries and veterinary",Master,4356.0
+314,GR,Arts and humanities,Bachelor,72011.0
+315,GR,Arts and humanities,Master,14482.0
+316,GR,"Business, administration and law",Bachelor,104315.0
+317,GR,"Business, administration and law",Master,54224.0
+318,GR,Education,Bachelor,49091.0
+319,GR,Education,Master,14216.0
+320,GR,"Engineering, manufacturing and construction",Bachelor,97685.0
+321,GR,"Engineering, manufacturing and construction",Master,19962.0
+322,GR,Generic programmes and qualifications,Bachelor,0.0
+323,GR,Generic programmes and qualifications,Master,0.0
+324,GR,Health and welfare,Bachelor,63149.0
+325,GR,Health and welfare,Master,23775.0
+326,GR,Information and Communication Technologies,Bachelor,22789.0
+327,GR,Information and Communication Technologies,Master,9582.0
+328,GR,"Natural sciences, mathematics and statistics",Bachelor,42255.0
+329,GR,"Natural sciences, mathematics and statistics",Master,22579.0
+330,GR,Services,Bachelor,18025.0
+331,GR,Services,Master,4092.0
+332,GR,"Social sciences, journalism and information",Bachelor,75963.0
+333,GR,"Social sciences, journalism and information",Master,34362.0
+334,GR,Unclassified,Bachelor,1026.0
+335,GR,Unclassified,Master,149.0
+336,HR,"Agriculture, forestry, fisheries and veterinary",Bachelor,5861.0
+337,HR,"Agriculture, forestry, fisheries and veterinary",Master,4620.0
+338,HR,Arts and humanities,Bachelor,13363.0
+339,HR,Arts and humanities,Master,10856.0
+340,HR,"Business, administration and law",Bachelor,40659.0
+341,HR,"Business, administration and law",Master,32042.0
+342,HR,Education,Bachelor,7397.0
+343,HR,Education,Master,6195.0
+344,HR,"Engineering, manufacturing and construction",Bachelor,30034.0
+345,HR,"Engineering, manufacturing and construction",Master,21510.0
+346,HR,Generic programmes and qualifications,Bachelor,7.0
+347,HR,Generic programmes and qualifications,Master,9.0
+348,HR,Health and welfare,Bachelor,18729.0
+349,HR,Health and welfare,Master,7191.0
+350,HR,Information and Communication Technologies,Bachelor,8306.0
+351,HR,Information and Communication Technologies,Master,5894.0
+352,HR,"Natural sciences, mathematics and statistics",Bachelor,7364.0
+353,HR,"Natural sciences, mathematics and statistics",Master,6743.0
+354,HR,Services,Bachelor,16531.0
+355,HR,Services,Master,8602.0
+356,HR,"Social sciences, journalism and information",Bachelor,11580.0
+357,HR,"Social sciences, journalism and information",Master,10541.0
+358,HR,Unclassified,Bachelor,0.0
+359,HR,Unclassified,Master,0.0
+360,HU,"Agriculture, forestry, fisheries and veterinary",Bachelor,14380.0
+361,HU,"Agriculture, forestry, fisheries and veterinary",Master,7259.0
+362,HU,Arts and humanities,Bachelor,46361.0
+363,HU,Arts and humanities,Master,18818.0
+364,HU,"Business, administration and law",Bachelor,108675.0
+365,HU,"Business, administration and law",Master,51758.0
+366,HU,Education,Bachelor,73269.0
+367,HU,Education,Master,35153.0
+368,HU,"Engineering, manufacturing and construction",Bachelor,73316.0
+369,HU,"Engineering, manufacturing and construction",Master,28170.0
+370,HU,Generic programmes and qualifications,Bachelor,34.0
+371,HU,Generic programmes and qualifications,Master,0.0
+372,HU,Health and welfare,Bachelor,29011.0
+373,HU,Health and welfare,Master,15652.0
+374,HU,Information and Communication Technologies,Bachelor,22182.0
+375,HU,Information and Communication Technologies,Master,5273.0
+376,HU,"Natural sciences, mathematics and statistics",Bachelor,18653.0
+377,HU,"Natural sciences, mathematics and statistics",Master,9298.0
+378,HU,Services,Bachelor,39863.0
+379,HU,Services,Master,5661.0
+380,HU,"Social sciences, journalism and information",Bachelor,68215.0
+381,HU,"Social sciences, journalism and information",Master,28859.0
+382,HU,Unclassified,Bachelor,26949.0
+383,HU,Unclassified,Master,8802.0
+384,IE,"Agriculture, forestry, fisheries and veterinary",Bachelor,20130.0
+385,IE,"Agriculture, forestry, fisheries and veterinary",Master,2303.0
+386,IE,Arts and humanities,Bachelor,67878.0
+387,IE,Arts and humanities,Master,18822.0
+388,IE,"Business, administration and law",Bachelor,68287.0
+389,IE,"Business, administration and law",Master,55432.0
+390,IE,Education,Bachelor,30107.0
+391,IE,Education,Master,31224.0
+392,IE,"Engineering, manufacturing and construction",Bachelor,46947.0
+393,IE,"Engineering, manufacturing and construction",Master,15393.0
+394,IE,Generic programmes and qualifications,Bachelor,2236.0
+395,IE,Generic programmes and qualifications,Master,723.0
+396,IE,Health and welfare,Bachelor,69331.0
+397,IE,Health and welfare,Master,36651.0
+398,IE,Information and Communication Technologies,Bachelor,28006.0
+399,IE,Information and Communication Technologies,Master,13945.0
+400,IE,"Natural sciences, mathematics and statistics",Bachelor,51391.0
+401,IE,"Natural sciences, mathematics and statistics",Master,19189.0
+402,IE,Services,Bachelor,23908.0
+403,IE,Services,Master,5271.0
+404,IE,"Social sciences, journalism and information",Bachelor,57979.0
+405,IE,"Social sciences, journalism and information",Master,30662.0
+406,IE,Unclassified,Bachelor,0.0
+407,IE,Unclassified,Master,0.0
+408,IS,"Agriculture, forestry, fisheries and veterinary",Bachelor,0.0
+409,IS,"Agriculture, forestry, fisheries and veterinary",Master,0.0
+410,IS,Arts and humanities,Bachelor,0.0
+411,IS,Arts and humanities,Master,0.0
+412,IS,"Business, administration and law",Bachelor,0.0
+413,IS,"Business, administration and law",Master,0.0
+414,IS,Education,Bachelor,0.0
+415,IS,Education,Master,0.0
+416,IS,"Engineering, manufacturing and construction",Bachelor,0.0
+417,IS,"Engineering, manufacturing and construction",Master,0.0
+418,IS,Generic programmes and qualifications,Bachelor,0.0
+419,IS,Generic programmes and qualifications,Master,0.0
+420,IS,Health and welfare,Bachelor,0.0
+421,IS,Health and welfare,Master,0.0
+422,IS,Information and Communication Technologies,Bachelor,0.0
+423,IS,Information and Communication Technologies,Master,0.0
+424,IS,"Natural sciences, mathematics and statistics",Bachelor,0.0
+425,IS,"Natural sciences, mathematics and statistics",Master,0.0
+426,IS,Services,Bachelor,0.0
+427,IS,Services,Master,0.0
+428,IS,"Social sciences, journalism and information",Bachelor,0.0
+429,IS,"Social sciences, journalism and information",Master,0.0
+430,IS,Unclassified,Bachelor,0.0
+431,IS,Unclassified,Master,0.0
+432,IT,"Agriculture, forestry, fisheries and veterinary",Bachelor,54727.0
+433,IT,"Agriculture, forestry, fisheries and veterinary",Master,26825.0
+434,IT,Arts and humanities,Bachelor,448409.0
+435,IT,Arts and humanities,Master,247590.0
+436,IT,"Business, administration and law",Bachelor,374212.0
+437,IT,"Business, administration and law",Master,227420.0
+438,IT,Education,Bachelor,133313.0
+439,IT,Education,Master,48532.0
+440,IT,"Engineering, manufacturing and construction",Bachelor,361459.0
+441,IT,"Engineering, manufacturing and construction",Master,280258.0
+442,IT,Generic programmes and qualifications,Bachelor,2177.0
+443,IT,Generic programmes and qualifications,Master,3166.0
+444,IT,Health and welfare,Bachelor,303318.0
+445,IT,Health and welfare,Master,90959.0
+446,IT,Information and Communication Technologies,Bachelor,33714.0
+447,IT,Information and Communication Technologies,Master,12709.0
+448,IT,"Natural sciences, mathematics and statistics",Bachelor,179353.0
+449,IT,"Natural sciences, mathematics and statistics",Master,129723.0
+450,IT,Services,Bachelor,87589.0
+451,IT,Services,Master,24439.0
+452,IT,"Social sciences, journalism and information",Bachelor,395167.0
+453,IT,"Social sciences, journalism and information",Master,234081.0
+454,IT,Unclassified,Bachelor,248222.0
+455,IT,Unclassified,Master,172443.0
+456,LI,"Agriculture, forestry, fisheries and veterinary",Bachelor,0.0
+457,LI,"Agriculture, forestry, fisheries and veterinary",Master,0.0
+458,LI,Arts and humanities,Bachelor,0.0
+459,LI,Arts and humanities,Master,0.0
+460,LI,"Business, administration and law",Bachelor,1152.0
+461,LI,"Business, administration and law",Master,791.0
+462,LI,Education,Bachelor,0.0
+463,LI,Education,Master,0.0
+464,LI,"Engineering, manufacturing and construction",Bachelor,334.0
+465,LI,"Engineering, manufacturing and construction",Master,301.0
+466,LI,Generic programmes and qualifications,Bachelor,0.0
+467,LI,Generic programmes and qualifications,Master,0.0
+468,LI,Health and welfare,Bachelor,0.0
+469,LI,Health and welfare,Master,0.0
+470,LI,Information and Communication Technologies,Bachelor,0.0
+471,LI,Information and Communication Technologies,Master,0.0
+472,LI,"Natural sciences, mathematics and statistics",Bachelor,0.0
+473,LI,"Natural sciences, mathematics and statistics",Master,0.0
+474,LI,Services,Bachelor,0.0
+475,LI,Services,Master,0.0
+476,LI,"Social sciences, journalism and information",Bachelor,0.0
+477,LI,"Social sciences, journalism and information",Master,0.0
+478,LI,Unclassified,Bachelor,0.0
+479,LI,Unclassified,Master,0.0
+480,LT,"Agriculture, forestry, fisheries and veterinary",Bachelor,4104.0
+481,LT,"Agriculture, forestry, fisheries and veterinary",Master,601.0
+482,LT,Arts and humanities,Bachelor,15556.0
+483,LT,Arts and humanities,Master,4063.0
+484,LT,"Business, administration and law",Bachelor,47912.0
+485,LT,"Business, administration and law",Master,15125.0
+486,LT,Education,Bachelor,12810.0
+487,LT,Education,Master,2963.0
+488,LT,"Engineering, manufacturing and construction",Bachelor,34540.0
+489,LT,"Engineering, manufacturing and construction",Master,8927.0
+490,LT,Generic programmes and qualifications,Bachelor,0.0
+491,LT,Generic programmes and qualifications,Master,31.0
+492,LT,Health and welfare,Bachelor,24911.0
+493,LT,Health and welfare,Master,4283.0
+494,LT,Information and Communication Technologies,Bachelor,6090.0
+495,LT,Information and Communication Technologies,Master,1271.0
+496,LT,"Natural sciences, mathematics and statistics",Bachelor,6135.0
+497,LT,"Natural sciences, mathematics and statistics",Master,3120.0
+498,LT,Services,Bachelor,5061.0
+499,LT,Services,Master,428.0
+500,LT,"Social sciences, journalism and information",Bachelor,18590.0
+501,LT,"Social sciences, journalism and information",Master,6607.0
+502,LT,Unclassified,Bachelor,0.0
+503,LT,Unclassified,Master,0.0
+504,LU,"Agriculture, forestry, fisheries and veterinary",Bachelor,0.0
+505,LU,"Agriculture, forestry, fisheries and veterinary",Master,33.0
+506,LU,Arts and humanities,Bachelor,685.0
+507,LU,Arts and humanities,Master,216.0
+508,LU,"Business, administration and law",Bachelor,1128.0
+509,LU,"Business, administration and law",Master,3264.0
+510,LU,Education,Bachelor,924.0
+511,LU,Education,Master,514.0
+512,LU,"Engineering, manufacturing and construction",Bachelor,229.0
+513,LU,"Engineering, manufacturing and construction",Master,315.0
+514,LU,Generic programmes and qualifications,Bachelor,0.0
+515,LU,Generic programmes and qualifications,Master,0.0
+516,LU,Health and welfare,Bachelor,13.0
+517,LU,Health and welfare,Master,84.0
+518,LU,Information and Communication Technologies,Bachelor,292.0
+519,LU,Information and Communication Technologies,Master,218.0
+520,LU,"Natural sciences, mathematics and statistics",Bachelor,246.0
+521,LU,"Natural sciences, mathematics and statistics",Master,245.0
+522,LU,Services,Bachelor,0.0
+523,LU,Services,Master,93.0
+524,LU,"Social sciences, journalism and information",Bachelor,991.0
+525,LU,"Social sciences, journalism and information",Master,469.0
+526,LU,Unclassified,Bachelor,0.0
+527,LU,Unclassified,Master,0.0
+528,LV,"Agriculture, forestry, fisheries and veterinary",Bachelor,1630.0
+529,LV,"Agriculture, forestry, fisheries and veterinary",Master,384.0
+530,LV,Arts and humanities,Bachelor,10916.0
+531,LV,Arts and humanities,Master,4266.0
+532,LV,"Business, administration and law",Bachelor,33458.0
+533,LV,"Business, administration and law",Master,15513.0
+534,LV,Education,Bachelor,9143.0
+535,LV,Education,Master,3250.0
+536,LV,"Engineering, manufacturing and construction",Bachelor,14230.0
+537,LV,"Engineering, manufacturing and construction",Master,5927.0
+538,LV,Generic programmes and qualifications,Bachelor,0.0
+539,LV,Generic programmes and qualifications,Master,0.0
+540,LV,Health and welfare,Bachelor,10185.0
+541,LV,Health and welfare,Master,2572.0
+542,LV,Information and Communication Technologies,Bachelor,4372.0
+543,LV,Information and Communication Technologies,Master,2021.0
+544,LV,"Natural sciences, mathematics and statistics",Bachelor,2861.0
+545,LV,"Natural sciences, mathematics and statistics",Master,1691.0
+546,LV,Services,Bachelor,8392.0
+547,LV,Services,Master,2899.0
+548,LV,"Social sciences, journalism and information",Bachelor,12376.0
+549,LV,"Social sciences, journalism and information",Master,4271.0
+550,LV,Unclassified,Bachelor,0.0
+551,LV,Unclassified,Master,0.0
+552,ME,"Agriculture, forestry, fisheries and veterinary",Bachelor,0.0
+553,ME,"Agriculture, forestry, fisheries and veterinary",Master,0.0
+554,ME,Arts and humanities,Bachelor,77.0
+555,ME,Arts and humanities,Master,41.0
+556,ME,"Business, administration and law",Bachelor,197.0
+557,ME,"Business, administration and law",Master,163.0
+558,ME,Education,Bachelor,27.0
+559,ME,Education,Master,8.0
+560,ME,"Engineering, manufacturing and construction",Bachelor,194.0
+561,ME,"Engineering, manufacturing and construction",Master,46.0
+562,ME,Generic programmes and qualifications,Bachelor,0.0
+563,ME,Generic programmes and qualifications,Master,0.0
+564,ME,Health and welfare,Bachelor,0.0
+565,ME,Health and welfare,Master,0.0
+566,ME,Information and Communication Technologies,Bachelor,178.0
+567,ME,Information and Communication Technologies,Master,25.0
+568,ME,"Natural sciences, mathematics and statistics",Bachelor,89.0
+569,ME,"Natural sciences, mathematics and statistics",Master,90.0
+570,ME,Services,Bachelor,0.0
+571,ME,Services,Master,0.0
+572,ME,"Social sciences, journalism and information",Bachelor,328.0
+573,ME,"Social sciences, journalism and information",Master,80.0
+574,ME,Unclassified,Bachelor,0.0
+575,ME,Unclassified,Master,0.0
+576,MK,"Agriculture, forestry, fisheries and veterinary",Bachelor,1014.0
+577,MK,"Agriculture, forestry, fisheries and veterinary",Master,115.0
+578,MK,Arts and humanities,Bachelor,6633.0
+579,MK,Arts and humanities,Master,1221.0
+580,MK,"Business, administration and law",Bachelor,6380.0
+581,MK,"Business, administration and law",Master,768.0
+582,MK,Education,Bachelor,2368.0
+583,MK,Education,Master,179.0
+584,MK,"Engineering, manufacturing and construction",Bachelor,5298.0
+585,MK,"Engineering, manufacturing and construction",Master,982.0
+586,MK,Generic programmes and qualifications,Bachelor,0.0
+587,MK,Generic programmes and qualifications,Master,0.0
+588,MK,Health and welfare,Bachelor,2931.0
+589,MK,Health and welfare,Master,69.0
+590,MK,Information and Communication Technologies,Bachelor,1218.0
+591,MK,Information and Communication Technologies,Master,60.0
+592,MK,"Natural sciences, mathematics and statistics",Bachelor,2003.0
+593,MK,"Natural sciences, mathematics and statistics",Master,262.0
+594,MK,Services,Bachelor,2817.0
+595,MK,Services,Master,113.0
+596,MK,"Social sciences, journalism and information",Bachelor,5950.0
+597,MK,"Social sciences, journalism and information",Master,1353.0
+598,MK,Unclassified,Bachelor,0.0
+599,MK,Unclassified,Master,0.0
+600,MT,"Agriculture, forestry, fisheries and veterinary",Bachelor,128.0
+601,MT,"Agriculture, forestry, fisheries and veterinary",Master,0.0
+602,MT,Arts and humanities,Bachelor,3571.23
+603,MT,Arts and humanities,Master,1248.0
+604,MT,"Business, administration and law",Bachelor,6156.18
+605,MT,"Business, administration and law",Master,5249.23
+606,MT,Education,Bachelor,3512.48
+607,MT,Education,Master,900.5699999999999
+608,MT,"Engineering, manufacturing and construction",Bachelor,2349.43
+609,MT,"Engineering, manufacturing and construction",Master,851.72
+610,MT,Generic programmes and qualifications,Bachelor,30.0
+611,MT,Generic programmes and qualifications,Master,0.0
+612,MT,Health and welfare,Bachelor,4185.0
+613,MT,Health and welfare,Master,1712.9
+614,MT,Information and Communication Technologies,Bachelor,1646.0
+615,MT,Information and Communication Technologies,Master,398.0
+616,MT,"Natural sciences, mathematics and statistics",Bachelor,1832.58
+617,MT,"Natural sciences, mathematics and statistics",Master,528.1
+618,MT,Services,Bachelor,963.27
+619,MT,Services,Master,162.0
+620,MT,"Social sciences, journalism and information",Bachelor,3502.68
+621,MT,"Social sciences, journalism and information",Master,1469.7
+622,MT,Unclassified,Bachelor,0.0
+623,MT,Unclassified,Master,0.0
+624,NL,"Agriculture, forestry, fisheries and veterinary",Bachelor,12434.0
+625,NL,"Agriculture, forestry, fisheries and veterinary",Master,7540.0
+626,NL,Arts and humanities,Bachelor,106537.0
+627,NL,Arts and humanities,Master,52301.0
+628,NL,"Business, administration and law",Bachelor,325670.0
+629,NL,"Business, administration and law",Master,177901.0
+630,NL,Education,Bachelor,130545.0
+631,NL,Education,Master,53209.0
+632,NL,"Engineering, manufacturing and construction",Bachelor,107294.0
+633,NL,"Engineering, manufacturing and construction",Master,53730.0
+634,NL,Generic programmes and qualifications,Bachelor,0.0
+635,NL,Generic programmes and qualifications,Master,0.0
+636,NL,Health and welfare,Bachelor,236374.0
+637,NL,Health and welfare,Master,66427.0
+638,NL,Information and Communication Technologies,Bachelor,51070.0
+639,NL,Information and Communication Technologies,Master,20809.0
+640,NL,"Natural sciences, mathematics and statistics",Bachelor,48654.0
+641,NL,"Natural sciences, mathematics and statistics",Master,41742.0
+642,NL,Services,Bachelor,76429.0
+643,NL,Services,Master,11709.0
+644,NL,"Social sciences, journalism and information",Bachelor,152218.0
+645,NL,"Social sciences, journalism and information",Master,107509.0
+646,NL,Unclassified,Bachelor,2512.0
+647,NL,Unclassified,Master,1005.0
+648,NO,"Agriculture, forestry, fisheries and veterinary",Bachelor,3517.0
+649,NO,"Agriculture, forestry, fisheries and veterinary",Master,1388.0
+650,NO,Arts and humanities,Bachelor,63014.0
+651,NO,Arts and humanities,Master,15284.0
+652,NO,"Business, administration and law",Bachelor,87523.0
+653,NO,"Business, administration and law",Master,38058.0
+654,NO,Education,Bachelor,136312.0
+655,NO,Education,Master,15708.0
+656,NO,"Engineering, manufacturing and construction",Bachelor,31184.0
+657,NO,"Engineering, manufacturing and construction",Master,13192.0
+658,NO,Generic programmes and qualifications,Bachelor,3154.0
+659,NO,Generic programmes and qualifications,Master,9.0
+660,NO,Health and welfare,Bachelor,133688.0
+661,NO,Health and welfare,Master,17509.0
+662,NO,Information and Communication Technologies,Bachelor,16889.0
+663,NO,Information and Communication Technologies,Master,5578.0
+664,NO,"Natural sciences, mathematics and statistics",Bachelor,19579.0
+665,NO,"Natural sciences, mathematics and statistics",Master,12506.0
+666,NO,Services,Bachelor,28619.0
+667,NO,Services,Master,3727.0
+668,NO,"Social sciences, journalism and information",Bachelor,73042.0
+669,NO,"Social sciences, journalism and information",Master,25165.0
+670,NO,Unclassified,Bachelor,3508.0
+671,NO,Unclassified,Master,2217.0
+672,PL,"Agriculture, forestry, fisheries and veterinary",Bachelor,158360.0
+673,PL,"Agriculture, forestry, fisheries and veterinary",Master,82423.0
+674,PL,Arts and humanities,Bachelor,218229.0
+675,PL,Arts and humanities,Master,127281.0
+676,PL,"Business, administration and law",Bachelor,411219.0
+677,PL,"Business, administration and law",Master,288225.0
+678,PL,Education,Bachelor,354489.0
+679,PL,Education,Master,197634.0
+680,PL,"Engineering, manufacturing and construction",Bachelor,394496.0
+681,PL,"Engineering, manufacturing and construction",Master,233591.0
+682,PL,Generic programmes and qualifications,Bachelor,0.0
+683,PL,Generic programmes and qualifications,Master,0.0
+684,PL,Health and welfare,Bachelor,158325.0
+685,PL,Health and welfare,Master,109682.0
+686,PL,Information and Communication Technologies,Bachelor,74978.0
+687,PL,Information and Communication Technologies,Master,30435.0
+688,PL,"Natural sciences, mathematics and statistics",Bachelor,141833.0
+689,PL,"Natural sciences, mathematics and statistics",Master,89145.0
+690,PL,Services,Bachelor,264489.0
+691,PL,Services,Master,103085.0
+692,PL,"Social sciences, journalism and information",Bachelor,572732.0
+693,PL,"Social sciences, journalism and information",Master,323781.0
+694,PL,Unclassified,Bachelor,9296.0
+695,PL,Unclassified,Master,6139.0
+696,PT,"Agriculture, forestry, fisheries and veterinary",Bachelor,10741.0
+697,PT,"Agriculture, forestry, fisheries and veterinary",Master,2744.0
+698,PT,Arts and humanities,Bachelor,68136.0
+699,PT,Arts and humanities,Master,18189.0
+700,PT,"Business, administration and law",Bachelor,129927.0
+701,PT,"Business, administration and law",Master,56025.0
+702,PT,Education,Bachelor,16964.0
+703,PT,Education,Master,32337.0
+704,PT,"Engineering, manufacturing and construction",Bachelor,107488.0
+705,PT,"Engineering, manufacturing and construction",Master,33947.0
+706,PT,Generic programmes and qualifications,Bachelor,0.0
+707,PT,Generic programmes and qualifications,Master,0.0
+708,PT,Health and welfare,Bachelor,110160.0
+709,PT,Health and welfare,Master,17817.0
+710,PT,Information and Communication Technologies,Bachelor,9035.0
+711,PT,Information and Communication Technologies,Master,3481.0
+712,PT,"Natural sciences, mathematics and statistics",Bachelor,33788.0
+713,PT,"Natural sciences, mathematics and statistics",Master,18357.0
+714,PT,Services,Bachelor,42542.0
+715,PT,Services,Master,7718.0
+716,PT,"Social sciences, journalism and information",Bachelor,72624.0
+717,PT,"Social sciences, journalism and information",Master,28164.0
+718,PT,Unclassified,Bachelor,306.0
+719,PT,Unclassified,Master,0.0
+720,RO,"Agriculture, forestry, fisheries and veterinary",Bachelor,9873.0
+721,RO,"Agriculture, forestry, fisheries and veterinary",Master,4529.0
+722,RO,Arts and humanities,Bachelor,12710.0
+723,RO,Arts and humanities,Master,6241.0
+724,RO,"Business, administration and law",Bachelor,31579.0
+725,RO,"Business, administration and law",Master,16182.0
+726,RO,Education,Bachelor,9066.0
+727,RO,Education,Master,3603.0
+728,RO,"Engineering, manufacturing and construction",Bachelor,29248.0
+729,RO,"Engineering, manufacturing and construction",Master,15053.0
+730,RO,Generic programmes and qualifications,Bachelor,1483.0
+731,RO,Generic programmes and qualifications,Master,687.0
+732,RO,Health and welfare,Bachelor,9940.0
+733,RO,Health and welfare,Master,2399.0
+734,RO,Information and Communication Technologies,Bachelor,8220.0
+735,RO,Information and Communication Technologies,Master,2547.0
+736,RO,"Natural sciences, mathematics and statistics",Bachelor,6889.0
+737,RO,"Natural sciences, mathematics and statistics",Master,3896.0
+738,RO,Services,Bachelor,5143.0
+739,RO,Services,Master,1968.0
+740,RO,"Social sciences, journalism and information",Bachelor,14730.0
+741,RO,"Social sciences, journalism and information",Master,7406.0
+742,RO,Unclassified,Bachelor,75.0
+743,RO,Unclassified,Master,0.0
+744,RS,"Agriculture, forestry, fisheries and veterinary",Bachelor,5038.0
+745,RS,"Agriculture, forestry, fisheries and veterinary",Master,2416.0
+746,RS,Arts and humanities,Bachelor,22337.0
+747,RS,Arts and humanities,Master,10379.0
+748,RS,"Business, administration and law",Bachelor,54582.0
+749,RS,"Business, administration and law",Master,14618.0
+750,RS,Education,Bachelor,13855.0
+751,RS,Education,Master,7837.0
+752,RS,"Engineering, manufacturing and construction",Bachelor,37047.0
+753,RS,"Engineering, manufacturing and construction",Master,17885.0
+754,RS,Generic programmes and qualifications,Bachelor,0.0
+755,RS,Generic programmes and qualifications,Master,0.0
+756,RS,Health and welfare,Bachelor,16124.0
+757,RS,Health and welfare,Master,18464.0
+758,RS,Information and Communication Technologies,Bachelor,16107.0
+759,RS,Information and Communication Technologies,Master,4555.0
+760,RS,"Natural sciences, mathematics and statistics",Bachelor,9605.0
+761,RS,"Natural sciences, mathematics and statistics",Master,6050.0
+762,RS,Services,Bachelor,20645.0
+763,RS,Services,Master,5380.0
+764,RS,"Social sciences, journalism and information",Bachelor,22353.0
+765,RS,"Social sciences, journalism and information",Master,6042.0
+766,RS,Unclassified,Bachelor,0.0
+767,RS,Unclassified,Master,0.0
+768,SE,"Agriculture, forestry, fisheries and veterinary",Bachelor,1992.0
+769,SE,"Agriculture, forestry, fisheries and veterinary",Master,618.0
+770,SE,Arts and humanities,Bachelor,30651.0
+771,SE,Arts and humanities,Master,12930.0
+772,SE,"Business, administration and law",Bachelor,55813.0
+773,SE,"Business, administration and law",Master,29362.0
+774,SE,Education,Bachelor,65324.0
+775,SE,Education,Master,14537.0
+776,SE,"Engineering, manufacturing and construction",Bachelor,45005.0
+777,SE,"Engineering, manufacturing and construction",Master,30574.0
+778,SE,Generic programmes and qualifications,Bachelor,0.0
+779,SE,Generic programmes and qualifications,Master,0.0
+780,SE,Health and welfare,Bachelor,119964.0
+781,SE,Health and welfare,Master,46726.0
+782,SE,Information and Communication Technologies,Bachelor,19338.0
+783,SE,Information and Communication Technologies,Master,7707.0
+784,SE,"Natural sciences, mathematics and statistics",Bachelor,14642.0
+785,SE,"Natural sciences, mathematics and statistics",Master,16275.0
+786,SE,Services,Bachelor,9695.0
+787,SE,Services,Master,2391.0
+788,SE,"Social sciences, journalism and information",Bachelor,73348.0
+789,SE,"Social sciences, journalism and information",Master,28561.0
+790,SE,Unclassified,Bachelor,0.0
+791,SE,Unclassified,Master,0.0
+792,SI,"Agriculture, forestry, fisheries and veterinary",Bachelor,1772.0
+793,SI,"Agriculture, forestry, fisheries and veterinary",Master,1016.0
+794,SI,Arts and humanities,Bachelor,7915.0
+795,SI,Arts and humanities,Master,4951.5
+796,SI,"Business, administration and law",Bachelor,7100.0
+797,SI,"Business, administration and law",Master,5455.0
+798,SI,Education,Bachelor,8403.0
+799,SI,Education,Master,6590.0
+800,SI,"Engineering, manufacturing and construction",Bachelor,12622.5
+801,SI,"Engineering, manufacturing and construction",Master,6314.0
+802,SI,Generic programmes and qualifications,Bachelor,0.0
+803,SI,Generic programmes and qualifications,Master,124.0
+804,SI,Health and welfare,Bachelor,8276.0
+805,SI,Health and welfare,Master,2292.0
+806,SI,Information and Communication Technologies,Bachelor,2266.0
+807,SI,Information and Communication Technologies,Master,909.0
+808,SI,"Natural sciences, mathematics and statistics",Bachelor,6507.5
+809,SI,"Natural sciences, mathematics and statistics",Master,3054.0
+810,SI,Services,Bachelor,6177.0
+811,SI,Services,Master,1085.0
+812,SI,"Social sciences, journalism and information",Bachelor,17507.5
+813,SI,"Social sciences, journalism and information",Master,8172.5
+814,SI,Unclassified,Bachelor,0.0
+815,SI,Unclassified,Master,0.0
+816,SK,"Agriculture, forestry, fisheries and veterinary",Bachelor,7777.0
+817,SK,"Agriculture, forestry, fisheries and veterinary",Master,7419.0
+818,SK,Arts and humanities,Bachelor,22496.0
+819,SK,Arts and humanities,Master,20297.0
+820,SK,"Business, administration and law",Bachelor,29415.0
+821,SK,"Business, administration and law",Master,35029.0
+822,SK,Education,Bachelor,53063.0
+823,SK,Education,Master,44526.0
+824,SK,"Engineering, manufacturing and construction",Bachelor,41103.0
+825,SK,"Engineering, manufacturing and construction",Master,43413.0
+826,SK,Generic programmes and qualifications,Bachelor,0.0
+827,SK,Generic programmes and qualifications,Master,0.0
+828,SK,Health and welfare,Bachelor,30807.0
+829,SK,Health and welfare,Master,20631.0
+830,SK,Information and Communication Technologies,Bachelor,11329.0
+831,SK,Information and Communication Technologies,Master,7579.0
+832,SK,"Natural sciences, mathematics and statistics",Bachelor,11670.0
+833,SK,"Natural sciences, mathematics and statistics",Master,10649.0
+834,SK,Services,Bachelor,17702.0
+835,SK,Services,Master,16796.0
+836,SK,"Social sciences, journalism and information",Bachelor,79603.0
+837,SK,"Social sciences, journalism and information",Master,79520.0
+838,SK,Unclassified,Bachelor,0.0
+839,SK,Unclassified,Master,0.0
+840,TR,"Agriculture, forestry, fisheries and veterinary",Bachelor,0.0
+841,TR,"Agriculture, forestry, fisheries and veterinary",Master,0.0
+842,TR,Arts and humanities,Bachelor,0.0
+843,TR,Arts and humanities,Master,0.0
+844,TR,"Business, administration and law",Bachelor,0.0
+845,TR,"Business, administration and law",Master,0.0
+846,TR,Education,Bachelor,0.0
+847,TR,Education,Master,0.0
+848,TR,"Engineering, manufacturing and construction",Bachelor,0.0
+849,TR,"Engineering, manufacturing and construction",Master,0.0
+850,TR,Generic programmes and qualifications,Bachelor,0.0
+851,TR,Generic programmes and qualifications,Master,0.0
+852,TR,Health and welfare,Bachelor,0.0
+853,TR,Health and welfare,Master,0.0
+854,TR,Information and Communication Technologies,Bachelor,0.0
+855,TR,Information and Communication Technologies,Master,0.0
+856,TR,"Natural sciences, mathematics and statistics",Bachelor,0.0
+857,TR,"Natural sciences, mathematics and statistics",Master,0.0
+858,TR,Services,Bachelor,0.0
+859,TR,Services,Master,0.0
+860,TR,"Social sciences, journalism and information",Bachelor,0.0
+861,TR,"Social sciences, journalism and information",Master,0.0
+862,TR,Unclassified,Bachelor,0.0
+863,TR,Unclassified,Master,0.0
+864,UK,"Agriculture, forestry, fisheries and veterinary",Bachelor,22495.0
+865,UK,"Agriculture, forestry, fisheries and veterinary",Master,8775.0
+866,UK,Arts and humanities,Bachelor,490950.0
+867,UK,Arts and humanities,Master,137510.0
+868,UK,"Business, administration and law",Bachelor,434890.0
+869,UK,"Business, administration and law",Master,413950.0
+870,UK,Education,Bachelor,108005.0
+871,UK,Education,Master,242495.0
+872,UK,"Engineering, manufacturing and construction",Bachelor,162465.0
+873,UK,"Engineering, manufacturing and construction",Master,137420.0
+874,UK,Generic programmes and qualifications,Bachelor,0.0
+875,UK,Generic programmes and qualifications,Master,0.0
+876,UK,Health and welfare,Bachelor,352390.0
+877,UK,Health and welfare,Master,150810.0
+878,UK,Information and Communication Technologies,Bachelor,91325.0
+879,UK,Information and Communication Technologies,Master,43670.0
+880,UK,"Natural sciences, mathematics and statistics",Bachelor,197250.0
+881,UK,"Natural sciences, mathematics and statistics",Master,61155.0
+882,UK,Services,Bachelor,40265.0
+883,UK,Services,Master,12640.0
+884,UK,"Social sciences, journalism and information",Bachelor,405885.0
+885,UK,"Social sciences, journalism and information",Master,210360.0
+886,UK,Unclassified,Bachelor,25280.0
+887,UK,Unclassified,Master,585.0
